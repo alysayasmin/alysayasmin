@@ -7,26 +7,15 @@
   <img src="baner.png" alt="Alysa Yasmin" width="100%" />
 </p>
 
-<h1 align="center">Hi, I'm Fitria Alysa Yasmin</h1>
+<h1 align="center">Hi 👋🏻, I'm Fitria Alysa Yasmin</h1>
 <p align="center"><strong>Software Engineer</strong> · Backend &amp; Fullstack · UI/UX Designer</p>
 <p align="center">
   Jakarta, Indonesia ·
   <a href="mailto:alysayasmin1505@gmail.com">alysayasmin1505@gmail.com</a>
 </p>
-
 ---
 
-### About me
-
-Final-year / junior software engineer focused on backend APIs and product features that stay testable. I like clean architecture, typed contracts, and shipping with a team.
-
-Currently learning production-ready APIs with TypeScript, PostgreSQL, and realtime systems. Goal: write reliable software and grow as an engineer who can own a system end to end.
-
-<!-- [EDIT] ganti paragraf di atas -->
-
----
-
-### Connect
+### 🤝 Connect
 
 <p>
   <a href="https://github.com/alysayasmin"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -36,7 +25,7 @@ Currently learning production-ready APIs with TypeScript, PostgreSQL, and realti
 
 ---
 
-### Tech stack
+### 💻 Tech stack
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
