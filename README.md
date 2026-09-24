@@ -4,10 +4,10 @@
 -->
 
 <p align="center">
-  <img src="banner.png" alt="Alysa Yasmin" width="100%" />
+  <img src="baner.png" alt="Alysa Yasmin" width="100%" />
 </p>
 
-<h1 align="center">Hi, I'm Alysa Yasmin</h1>
+<h1 align="center">Hi, I'm Fitria Alysa Yasmin</h1>
 <p align="center"><strong>Software Engineer</strong> · Backend &amp; Fullstack</p>
 <p align="center">
   Jakarta, Indonesia ·
