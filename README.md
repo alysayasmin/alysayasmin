@@ -13,6 +13,7 @@
   Jakarta, Indonesia ·
   <a href="mailto:alysayasmin1505@gmail.com">alysayasmin1505@gmail.com</a>
 </p>
+
 ---
 
 ### 🤝 Connect
@@ -48,12 +49,7 @@
 ### GitHub stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=alysayasmin&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
   <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=alysayasmin&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alysayasmin&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
 </p>
 
 ---
