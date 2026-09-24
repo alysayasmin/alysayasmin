@@ -8,10 +8,10 @@
 </p>
 
 <h1 align="center">Hi, I'm Fitria Alysa Yasmin</h1>
-<p align="center"><strong>Software Engineer</strong> · Backend &amp; Fullstack</p>
+<p align="center"><strong>Software Engineer</strong> · Backend &amp; Fullstack · UI/UX Designer</p>
 <p align="center">
   Jakarta, Indonesia ·
-  <a href="mailto:hello@example.com">hello@example.com</a>
+  <a href="mailto:alysayasmin1505@gmail.com">alysayasmin1505@gmail.com</a>
 </p>
 
 ---
@@ -30,16 +30,13 @@ Currently learning production-ready APIs with TypeScript, PostgreSQL, and realti
 
 <p>
   <a href="https://github.com/alysayasmin"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:hello@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/fitriaalysa/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:alysayasmin1505@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
 
 ### Tech stack
-
-Stack yang sudah dipakai di project (Dolan & belajar):
-
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -72,4 +69,4 @@ Stack yang sudah dipakai di project (Dolan & belajar):
 
 ---
 
-<p align="center">Thanks for visiting. Replace the dummy name, email, and LinkedIn when you are ready.</p>
+<p align="center">Thanks for visiting my GitHub profile!, I hope you find my work interesting.</p>
