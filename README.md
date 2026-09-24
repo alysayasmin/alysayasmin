@@ -1,7 +1,6 @@
 <!--
-  Profile README — ganti teks bertanda [EDIT].
-  Repo ini harus public. Agar tampil di profil GitHub,
-  rename repo menjadi persis: alysayasmin (bukan alysayasmin-alysayasmin).
+  Profile README — ganti teks dummy (email, LinkedIn, About).
+  Repo public bernama alysayasmin → tampil di https://github.com/alysayasmin
 -->
 
 <p align="center">
