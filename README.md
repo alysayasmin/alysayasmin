@@ -4,7 +4,7 @@
 -->
 
 <p align="center">
-  <img src="baner.png" alt="Alysa Yasmin" width="100%" />
+  <img src="banner.png" alt="Alysa Yasmin" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Fitria Alysa Yasmin</h1>
